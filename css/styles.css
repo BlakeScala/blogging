@@ -2,19 +2,27 @@
   color: green;
   font-style: italic;
   font-weight: bolder;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .blog2 {
   color: purple;
   font-style: bold;
   font-family: monospace;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .blog3 {
   color: red;
   font-style: italic;
   font-family: fantasy;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .author {
   color: blue;
   font-style: oblique;
   font-family: inherit;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
